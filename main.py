@@ -187,4 +187,4 @@ def handle_message(message):
 
 
 print("Dars_jadval37_bot muvaffaqiyatli ishga tushdi va Excel faylga ulandi!")
-bot.infinity_polling(non_stop=True, interval=0, timeout=20)
+bot.infinity_polling()
